@@ -2,7 +2,6 @@
 
 <h2 align="left">Hey there 👋</h2>
 </br>
-
 <p align="left">I'm Olena!<br>
 <br> 🔭 Software Engineering Student at 42Berlin
 <br> 📚 Currently working on HTTP server in C++
