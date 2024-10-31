@@ -5,7 +5,7 @@
 <p align="left">I'm Olena!<br>
 <br> 🔭 Software Engineering Student at 42Berlin
 <br> 📚 Currently working on HTTP server in C++
-<br> ⚡ Excited to innovate and push the boundaries of interactive entertainment
+<!-- <br> ⚡ Excited to innovate and push the boundaries of interactive entertainment -->
 </p>
 
 ###
@@ -46,7 +46,7 @@
 <div align="left">
   <h3>Most recent projects</h3>
   <p>
-    Inception
+<!--     Inception -->
   </p>
   <div></div>
 </div>
