@@ -50,8 +50,8 @@
   </p>
   <div></div>
 </div>
-<a href="https://u8views.com/github/lh-lena"><img src="https://u8views.com/api/v1/github/profiles/115004316/views/day-week-month-total-count.svg"></a>
-
+<!--
 [![lh-lena profile views](https://u8views.com/api/v1/github/profiles/115004316/views/day-week-month-total-count.svg)](https://u8views.com/github/lh-lena)
+-->
 
 
