@@ -44,19 +44,17 @@
 
 
 <div align="left">
-  <h3>Most recent projects</h3>
-  <p>
-    [**inception**](https://github.com/lh-lena/42-Inception): <br>
+  <h3>🔗 Most recent projects</h3>
+<!--   <p>
+    [![**inception**](https://github.com/lh-lena/42-Inception)]: <br>
     [**minishell**](https://github.com/lh-lena/42_minishell): build a small shell in C that mimics bash<br>
     [**philosophers**](https://github.com/lh-lena/42_philosophers): solve the "dining philosophers" problem using threads and mutexes<br>
     [**minitalk**](https://github.com/lh-lena/42_minitalk): <br>
     [**push_swap**](https://github.com/lh-lena/42_push_swap): create a sorting algorithm for stacks using the least number of moves<br>
     [**libft**](https://github.com/lh-lena/42_libft): a custom C library by recreating standard library functions from scratch <br>
-  </p>
+  </p> -->
   <div></div>
 </div>
-<!--
-[![lh-lena profile views](https://u8views.com/api/v1/github/profiles/115004316/views/day-week-month-total-count.svg)](https://u8views.com/github/lh-lena)
--->
+<!-- [![lh-lena profile views](https://u8views.com/api/v1/github/profiles/115004316/views/day-week-month-total-count.svg)](https://u8views.com/github/lh-lena) -->
 
 
