@@ -46,7 +46,12 @@
 <div align="left">
   <h3>Most recent projects</h3>
   <p>
-<!--     Inception -->
+    [**inception**](https://github.com/lh-lena/42-Inception): <br>
+    [**minishell**](https://github.com/lh-lena/42_minishell): build a small shell in C that mimics bash<br>
+    [**philosophers**](https://github.com/lh-lena/42_philosophers): solve the "dining philosophers" problem using threads and mutexes<br>
+    [**minitalk**](https://github.com/lh-lena/42_minitalk): <br>
+    [**push_swap**](https://github.com/lh-lena/42_push_swap): create a sorting algorithm for stacks using the least number of moves<br>
+    [**libft**](https://github.com/lh-lena/42_libft): a custom C library by recreating standard library functions from scratch <br>
   </p>
   <div></div>
 </div>
