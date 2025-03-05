@@ -44,7 +44,7 @@
 
 <div align="left">
   <h3>🔗 Most recent projects</h3>
-<!--   <p>
+  <p>
     [webserv](https://github.com/lh-lena/42_webserv): build a functional HTTP server in C++ from scratch<br/>
     [inception](https://github.com/lh-lena/42-Inception/): set up a small infrastructure composed of different services and custom docker images<br>
     [**`minishell`**](https://github.com/lh-lena/42_minishell): build a shell in C that mimics bash<br>
@@ -52,7 +52,7 @@
     [**`minitalk`**](https://github.com/lh-lena/42_minitalk): code a small data exchange program using UNIX signals<br>
     [**`push_swap`**](https://github.com/lh-lena/42_push_swap): create a sorting algorithm for stacks using the least number of moves<br>
     [**`libft`**](https://github.com/lh-lena/42_libft): a custom C library by recreating standard library functions from scratch <br>
-  </p> -->
+  </p>
   <div></div>
 </div>
 <!-- [![lh-lena profile views](https://u8views.com/api/v1/github/profiles/115004316/views/day-week-month-total-count.svg)](https://u8views.com/github/lh-lena) -->
