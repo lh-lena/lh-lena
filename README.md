@@ -42,19 +42,15 @@
 
 </div>
 
-<div align="left">
-  <h3>🔗 Most recent projects</h3>
-  <p>
-    [webserv](https://github.com/lh-lena/42_webserv): build a functional HTTP server in C++ from scratch<br/>
-    [inception](https://github.com/lh-lena/42-Inception/): set up a small infrastructure composed of different services and custom docker images<br>
-    [**`minishell`**](https://github.com/lh-lena/42_minishell): build a shell in C that mimics bash<br>
-    [**`philosophers`**](https://github.com/lh-lena/42_philosophers): solve the "dining philosophers" problem using threads and mutexes<br>
-    [**`minitalk`**](https://github.com/lh-lena/42_minitalk): code a small data exchange program using UNIX signals<br>
-    [**`push_swap`**](https://github.com/lh-lena/42_push_swap): create a sorting algorithm for stacks using the least number of moves<br>
-    [**`libft`**](https://github.com/lh-lena/42_libft): a custom C library by recreating standard library functions from scratch <br>
-  </p>
-  <div></div>
-</div>
+## 🔗 Most recent projects <br/>
+
+  [**`webserv`**](https://github.com/lh-lena/42_webserv):           a functional HTTP server in C++ from scratch<br/>
+  [**`inception`**](https://github.com/lh-lena/42-Inception/):      a small infrastructure composed of different services and custom docker images<br>
+  [**`minishell`**](https://github.com/lh-lena/42_minishell):       a shell in C that mimics bash<br>
+  [**`philosophers`**](https://github.com/lh-lena/42_philosophers): solved the "dining philosophers" problem using threads and mutexes<br>
+  [**`minitalk`**](https://github.com/lh-lena/42_minitalk):         coded a small data exchange program using UNIX signals<br>
+  [**`push_swap`**](https://github.com/lh-lena/42_push_swap):       created a sorting algorithm for stacks using the least number of moves<br>
+  [**`libft`**](https://github.com/lh-lena/42_libft):               a custom C library by recreating standard library functions from scratch<br>
 <!-- [![lh-lena profile views](https://u8views.com/api/v1/github/profiles/115004316/views/day-week-month-total-count.svg)](https://u8views.com/github/lh-lena) -->
 
 
