@@ -49,7 +49,7 @@
   [**`philosophers`**](https://github.com/lh-lena/42_philosophers): solved the "dining philosophers" problem using threads and mutexes<br>
   [**`minitalk`**](https://github.com/lh-lena/42_minitalk):         coded a small data exchange program using UNIX signals<br>
   [**`push_swap`**](https://github.com/lh-lena/42_push_swap):       created a sorting algorithm for stacks using the least number of moves<br>
-  [**`ft_printf`**](https://github.com/lh-lena/42_ft_printf):       recreation of the printf function from a C Standard library<br>
+  [**`ft_printf`**](https://github.com/lh-lena/42_ft_printf):       mimics the original printf function from the C standard library<br>
   [**`ft_libft`**](https://github.com/lh-lena/42_libft):            a custom C library by recreating standard library functions from scratch<br>
 <!-- [![lh-lena profile views](https://u8views.com/api/v1/github/profiles/115004316/views/day-week-month-total-count.svg)](https://u8views.com/github/lh-lena) -->
 
