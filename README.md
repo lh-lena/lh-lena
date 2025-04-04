@@ -37,7 +37,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lh-lena&hide=roff&theme=tokyonight&locale=en&hide_border=false" height="350" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lh-lena&hide=roff&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="350" alt="stats graph"  />
   <br/>
 </div>
 
