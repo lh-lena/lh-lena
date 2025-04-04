@@ -3,7 +3,8 @@
 <h2 align="left">Hey there 👋</h2>
 </br>
 <p align="left">I'm Olena!<br>
-<br> 🔭 Software Engineering Student at 42Berlin
+<br> 🔭 Aspiring Software Engineering Student at 42Berlin
+<br> ⚡ From ft_putchar to ft_transcendence
 <br> 📚 Currently working on a web Pong game. Exploring TS, Node.js, JWT, SQLite
 <!-- <br> ⚡ Excited to innovate and push the boundaries of interactive entertainment -->
 </p>
