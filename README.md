@@ -4,7 +4,7 @@
 </br>
 <p align="left">I'm Olena!<br>
 <br> 🔭 Software Engineering Student at 42Berlin
-<br> 📚 Currently working on HTTP server in C++
+<br> 📚 Currently working on a web game `Pong`. Exploring TS, Node.js, JWT, SQLite
 <!-- <br> ⚡ Excited to innovate and push the boundaries of interactive entertainment -->
 </p>
 
