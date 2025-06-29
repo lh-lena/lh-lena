@@ -1,16 +1,13 @@
 ###
 
-<h2 align="left">Hey there 👋 I'm Olena!</h2>
+<h2 align="left">Hi there 👋 I'm Olena!</h2>
 
 
 <br/> 
-🔭 Aspiring Software Engineering Student at 42Berlin
+🔭 Aspiring Software Engineer
 <br/> <br/> 
+⚡ Ready to transform curiosity about AI into practical Gen AI development skills while contributing to innovative projects
 
-⚡ From [**ft_putchar**](https://github.com/lh-lena/42_libft/blob/main/ft_putchar_fd.c#L15) to ft_transcendence
-<br/> <br/> 
-📚 Currently working on a web Pong game. Exploring TS, Node.js, JWT, SQLite
-<!-- <br> ⚡ Excited to innovate and push the boundaries of interactive entertainment -->
 <br/>
 
 ### <h3 align="left">🛠 Language and tools</h3><br/>
