@@ -6,7 +6,7 @@
 <br/> 
 🔭 Aspiring Software Engineer
 <br/> <br/> 
-⚡ Ready to transform curiosity about AI into practical Gen AI development skills while contributing to innovative projects
+⚡ from ft_put_char to _ft_transcendence
 
 <br/>
 
