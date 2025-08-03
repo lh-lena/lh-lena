@@ -1,26 +1,24 @@
 ###
 
-<h2 align="left">Hi there 👋 I'm Olena!</h2>
+<h2 align="left">Hi there 👋 I'm Olena!</h2><br/>
 
-
-<br/> 
-🔭 Aspiring Software Engineer
-<br/> <br/> 
-⚡ from ft_put_char to _ft_transcendence
+🔭 Aspiring Software Engineer interested in cybersecurity and research<br/>
+⚡ from [**ft_putchar_fd**](https://github.com/lh-lena/42_libft/blob/main/ft_putchar_fd.c#L15) to ft_transcendence*<br/>
+💡 *ft_transcendence is a real-time multiplayer Pong game that is being developed using TypeScript, Fastify and WebSockets
 
 <br/>
 
 ### <h3 align="left">🛠 Language and tools</h3><br/>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
- <!--  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 <!--   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /> -->
-  <img width="12" />
+<!--   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
