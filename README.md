@@ -2,7 +2,8 @@
 
 <h2 align="left">Hi there 👋 I'm Olena!</h2><br/>
 
-🔭 Aspiring Software Engineer interested in cybersecurity and research<br/>
+🔭 Aspiring Software Engineer<br/> 
+<!--interested in cybersecurity -->
 ⚡ from [**ft_putchar_fd**](https://github.com/lh-lena/42_libft/blob/main/ft_putchar_fd.c#L15) to ft_transcendence*<br/>
 💡 *ft_transcendence is a real-time multiplayer Pong game that is being developed using TypeScript, Fastify and WebSockets
 
