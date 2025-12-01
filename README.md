@@ -3,7 +3,7 @@
 <h2 align="left">Hi there 👋 I'm Olena!</h2>
 
 ### Aspiring Software Engineer: From C Fundamentals to Real-Time Web Systems
-My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://github.com/lh-lena/42_libft/blob/main/ft_putchar_fd.c#L15) to [**ft_transcendence**](https://github.com/lh-lena/ft_transcendence/tree/main/realtime])<br/>
+My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://github.com/lh-lena/42_libft/blob/main/ft_putchar_fd.c#L15) to [**ft_transcendence**](https://github.com/lh-lena/ft_transcendence/tree/main/realtime)<br/>
 
 ### <h3 align="left">🛠 Language and tools</h3><br/>
 <div align="left">
