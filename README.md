@@ -1,13 +1,9 @@
 ###
 
-<h2 align="left">Hi there 👋 I'm Olena!</h2><br/>
+<h2 align="left">Hi there 👋 I'm Olena!</h2>
 
-🔭 Aspiring Software Engineer<br/> 
-<!--interested in cybersecurity -->
-⚡ from [**ft_putchar_fd**](https://github.com/lh-lena/42_libft/blob/main/ft_putchar_fd.c#L15) to ft_transcendence*<br/>
-💡 *ft_transcendence is a real-time multiplayer Pong game that is being developed using TypeScript, Fastify and WebSockets
-
-<br/>
+### Aspiring Software Engineer: From C Fundamentals to Real-Time Web Systems
+My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://github.com/lh-lena/42_libft/blob/main/ft_putchar_fd.c#L15) to [**ft_transcendence**](https://github.com/lh-lena/ft_transcendence/tree/main/realtime])<br/>
 
 ### <h3 align="left">🛠 Language and tools</h3><br/>
 <div align="left">
@@ -37,7 +33,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lh-lena&hide=roff&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="350" alt="used languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lh-lena&hide=roff&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="350" alt="used languages"/>
   <br/>
 </div>
 
