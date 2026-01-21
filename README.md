@@ -5,6 +5,8 @@
 ### Aspiring Software Engineer: From C Fundamentals to Real-Time Web Systems
 My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://github.com/lh-lena/42_libft/blob/main/ft_putchar_fd.c#L15) to [**ft_transcendence**](https://github.com/lh-lena/ft_transcendence/tree/main/realtime)<br/>
 
+#### [42 Berlin Graduate](https://42berlin.de)
+
 ### <h3 align="left">🛠 Language and tools</h3><br/>
 <div align="left">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> -->
@@ -43,14 +45,15 @@ My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://
 
 ## 🔗 Most recent projects <br/>
 
-  [**`webserv`**](https://github.com/lh-lena/42_webserv):           a functional HTTP server in C++ from scratch<br>
-  [**`inception`**](https://github.com/lh-lena/42-Inception/):      a small infrastructure composed of different services and custom docker images<br>
-  [**`minishell`**](https://github.com/lh-lena/42_minishell):       a shell in C that mimics bash<br>
-  [**`philosophers`**](https://github.com/lh-lena/42_philosophers): solved the "dining philosophers" problem using threads and mutexes<br>
-  [**`minitalk`**](https://github.com/lh-lena/42_minitalk):         coded a small data exchange program using UNIX signals<br>
-  [**`push_swap`**](https://github.com/lh-lena/42_push_swap):       created a sorting algorithm for stacks using the least number of moves<br>
-  [**`ft_printf`**](https://github.com/lh-lena/42_ft_printf):       mimics the original printf function from the C standard library<br>
-  [**`ft_libft`**](https://github.com/lh-lena/42_libft):            a custom C library by recreating standard library functions from scratch<br>
+  [**`ft_transcendence`**](https://github.com/lh-lena/ft_transcendence): a real‑time multiplayer Pong game<br>
+  [**`webserv`**](https://github.com/lh-lena/42_webserv):                a functional HTTP server in C++ from scratch<br>
+  [**`inception`**](https://github.com/lh-lena/42-Inception/):           a small infrastructure composed of different services and custom docker images<br>
+  [**`minishell`**](https://github.com/lh-lena/42_minishell):            a shell in C that mimics bash<br>
+  [**`philosophers`**](https://github.com/lh-lena/42_philosophers):      solved the "dining philosophers" problem using threads and mutexes<br>
+  [**`minitalk`**](https://github.com/lh-lena/42_minitalk):              coded a small data exchange program using UNIX signals<br>
+  [**`push_swap`**](https://github.com/lh-lena/42_push_swap):            created a sorting algorithm for stacks using the least number of moves<br>
+  [**`ft_printf`**](https://github.com/lh-lena/42_ft_printf):            mimics the original printf function from the C standard library<br>
+  [**`ft_libft`**](https://github.com/lh-lena/42_libft):                 a custom C library by recreating standard library functions from scratch<br>
 <!-- [![lh-lena profile views](https://u8views.com/api/v1/github/profiles/115004316/views/day-week-month-total-count.svg)](https://u8views.com/github/lh-lena) -->
 
 
