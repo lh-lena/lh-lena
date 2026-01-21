@@ -5,7 +5,7 @@
 ### Aspiring Software Engineer: From C Fundamentals to Real-Time Web Systems
 My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://github.com/lh-lena/42_libft/blob/main/ft_putchar_fd.c#L15) to [**ft_transcendence**](https://github.com/lh-lena/ft_transcendence/tree/main/realtime)<br/>
 
-#### [42 Berlin Graduate](https://42berlin.de)
+#### [42 Berlin Graduate](https://42berlin.de/about-us/)
 
 ### <h3 align="left">🛠 Language and tools</h3><br/>
 <div align="left">
