@@ -42,7 +42,7 @@ My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lh-lena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div> -->
-
+<!-- 
 ## 🔗 Most recent projects <br/>
 
   [**`ft_transcendence`**](https://github.com/lh-lena/ft_transcendence): a real‑time multiplayer Pong game<br>
@@ -54,6 +54,7 @@ My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://
   [**`push_swap`**](https://github.com/lh-lena/42_push_swap):            created a sorting algorithm for stacks using the least number of moves<br>
   [**`ft_printf`**](https://github.com/lh-lena/42_ft_printf):            mimics the original printf function from the C standard library<br>
   [**`ft_libft`**](https://github.com/lh-lena/42_libft):                 a custom C library by recreating standard library functions from scratch<br>
+  -->
 <!-- [![lh-lena profile views](https://u8views.com/api/v1/github/profiles/115004316/views/day-week-month-total-count.svg)](https://u8views.com/github/lh-lena) -->
 
 
