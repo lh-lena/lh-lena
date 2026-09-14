@@ -7,10 +7,10 @@ My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://
 
 #### [42 Berlin Graduate](https://42berlin.de/about-us/)
 
-### <h3 align="left">🛠 Language and tools</h3><br/>
-<div align="left">
+<!-- <h3 align="left">🛠 Language and tools</h3><br/> -->
+<!-- <div align="left"> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> -->
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -28,16 +28,16 @@ My technical journey, a demonstrative example: from [**ft_putchar_fd**](https://
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-   <img width="12" />
+   <img width="12" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" /> -->
 
-</div>
+<!-- </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lh-lena&hide=roff&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="350" alt="used languages"/>
   <br/>
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lh-lena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
